@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 Currently learning Web Development and Problem Solving on DSA.
-🌱 Pursuing Electrical Engineering from National Institute of Technology Jamshedpur
-👯 I’m looking to collaborate on Front-End Projects.
-📫 Reach me: nandraj2001@gmail.com
+- 🔭 Currently learning Web Development and Problem Solving on DSA.
+- 🌱 Pursuing Electrical Engineering from National Institute of Technology Jamshedpur
+- 👯 I’m looking to collaborate on Front-End Projects.
+- 📫 Reach me: nandraj2001@gmail.com
