@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Nand Raj
 
 <!--
 **nand-nrj/nand-nrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Currently learning Web Development and Problem Solving on DSA.
-- 🌱 Pursuing Electrical Engineering from National Institute of Technology Jamshedpur
+- 🔭 I'm currently learning Web Development and Problem Solving on DSA.
+- 🌱 I'm pursuing Electrical Engineering from National Institute of Technology Jamshedpur
 - 👯 I’m looking to collaborate on Front-End Projects.
 - 📫 Reach me: nandraj2001@gmail.com
