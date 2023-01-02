@@ -7,15 +7,15 @@
 
 - 👯 I’m looking to collaborate on **Front-End Projects.**
 
-- 👨‍💻 All of my projects are available at [nand-nrj.github.io/](nand-nrj.github.io/)
+- 👨‍💻 All of my projects are available at [nandcoder.github.io/](nandcoder.github.io/)
 
 - 💬 Ask me about **C++ and front-end HTML, CSS, JS**
 
 - 📫 How to reach me **nandraj2001@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nand-nrj&label=Profile%20views&color=0e75b6&style=flat" alt="nand-nrj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nandcoder&label=Profile%20views&color=0e75b6&style=flat" alt="nandcoder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nand-nrj" alt="nand-nrj" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandcoder" alt="nandcoder" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -39,8 +39,8 @@
   <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nand-nrj&show_icons=true&locale=en&layout=compact" alt="nand-nrj" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandcoder&show_icons=true&locale=en&layout=compact" alt="nandcoder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nand-nrj&show_icons=true&locale=en" alt="nand-nrj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandcoder&show_icons=true&locale=en" alt="nandcoder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nand-nrj&" alt="nand-nrj" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandcoder&" alt="nandcoder" /></p>
