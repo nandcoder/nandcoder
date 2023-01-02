@@ -5,11 +5,11 @@
 
 - 🌱 I’m pursuing **Electrical Engineering from National Institute of Technology Jamshedpur.**
 
-- 👯 I’m looking to collaborate on **Front-End Projects.**
+- 👯 I’m looking to collaborate on **MERN Stack Projects.**
 
 - 👨‍💻 All of my projects are available at [nandcoder.github.io/](nandcoder.github.io/)
 
-- 💬 Ask me about **C++ and front-end HTML, CSS, JS**
+- 💬 Ask me about **C++, JS and MERN development stuffs**
 
 - 📫 How to reach me **nandraj2001@gmail.com**
 
