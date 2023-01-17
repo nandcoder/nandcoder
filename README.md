@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects.**
 
-- 👨‍💻 All of my projects are available at [nandcoder.github.io/](nandcoder.github.io/)
+- 👨‍💻 All of my projects are available at [nandcoder.github.io](https://nandcoder.github.io)
 
 - 💬 Ask me about **C++, JS and MERN development stuffs**
 
