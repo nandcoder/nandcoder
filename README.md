@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects.**
 
-- 👨‍💻 All of my projects are available at [nandcoder.github.io](https://nandcoder.github.io)
+- 👨‍💻 All of my projects are available at [nandr.tech](https://nandr.tech)
 
 - 💬 Ask me about **C++, JS and MERN development stuffs**
 
-- 📫 How to reach me **nandraj2001@gmail.com**
+- 📫 How to reach me **nandr.jsr@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandcoder&label=Profile%20views&color=0e75b6&style=flat" alt="nandcoder" /> </p>
 
